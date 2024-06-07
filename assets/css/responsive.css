@@ -104,7 +104,7 @@
     }
     .product-container {
         padding: 10px;
-        margin-top: 0vh;
+        margin-top: 5vh;
     }
     .product-info {
         margin-right: 10px;
@@ -150,6 +150,6 @@
 
 @media (max-height: 700px) {
     .product-container {
-        margin-top: 19vh;
+        margin-top: 28vh;
     }
 }
