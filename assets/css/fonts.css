@@ -1,0 +1,23 @@
+  /* Circular Std Light */
+  @font-face {
+    font-family: "Circular Std";
+    src: url("../fonts/cs-light/CircularStd-Light.eot");
+    src: url("../fonts/cs-light/CircularStd-Light.eot") format("embedded-opentype"),
+      url("../fonts/cs-light/CircularStd-Light.woff2") format("woff2"),
+      url("../fonts/cs-light/CircularStd-Light.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+    /* Circular Std Normal */
+    @font-face {
+      font-family: "Circular Std";
+      src: url("../fonts/cs-normal/CircularStd-Medium.eot");
+      src: url("../fonts/cs-normal/CircularStd-Medium.eot") format("embedded-opentype"),
+        url("../fonts/cs-normal/CircularStd-Medium.woff2") format("woff2"),
+        url("../fonts/cs-normal/CircularStd-Medium.woff") format("woff"),
+        url("../fonts/cs-normal/CircularStd-Medium.ttf") format("truetype");
+      font-weight: 500;
+      font-style: normal;
+    }
+    
